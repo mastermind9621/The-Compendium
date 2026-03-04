@@ -6,5 +6,4 @@ BASIC DESCRIPTION HERE
 :caption: Illuminate Species
 
 voteless
-test
 ```
