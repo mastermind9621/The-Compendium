@@ -7,7 +7,7 @@
 
 ## Specifications:
 
-Vox Engines are gargantuan siege bots designed for all out war, each one piloted by a Cyborg traitor and almost entirely covered in advanced thick armour-plating. Serving as the base of this abomination are four treads connected to a chassis, upon which sits an omnidirectional turret that can aim anywhere its system deems optimal for oppressing Democracy. Atop the treads are two large laser gatling guns each equipped with a pale yellow laser sight. The omnidirectional turret has two humungous burst-fire laser cannons built onto the sides of the turret. Not only that, it has two large guided missile pods attached to the back of the turret, making them roughly as dangerous as an automaton outpost, except mobile. They are also equipped with tyrannical propagandic speakers that spread their treasonous ways to all within earshot.
+Vox Engines are gargantuan siege machines designed for all out war, each one piloted by a Cyborg traitor and almost entirely covered in advanced thick armour-plating. Serving as the base of this abomination are four treads connected to a chassis, upon which sits an omnidirectional turret that can aim anywhere its system deems optimal for oppressing Democracy. Atop the treads are two large laser gatling guns each equipped with a pale yellow laser sight. The omnidirectional turret has two humungous burst-fire laser cannons built onto the sides of the turret. Not only that, it has two large guided missile pods attached to the back of the turret, making them roughly as dangerous as an automaton outpost, except mobile. They are also equipped with tyrannical propagandic speakers that spread their treasonous ways to all within earshot.
 
 ## Weaknesses:
 
