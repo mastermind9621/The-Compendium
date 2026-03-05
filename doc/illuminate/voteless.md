@@ -8,7 +8,7 @@
 
 ## Strengths:
 
-Members of the Voteless horde are capable only of recklessly charging at anything Democratic, chasing after freedom fighters with the kind of mindless zeal that only comes from being completely and utterly indoctrinated by their alien masters. While pitifully weak individually (if you can even call them that anymore), their main strength lies in their sheer endless number. If their presence is not managed or communicated, Helldivers will quickly find themselves overwhelmed and backed into a corner with no way out.
+Members of the Voteless horde are capable only of recklessly charging at anything Democratic, chasing after freedom fighters with the kind of mindless zeal that comes only from being completely and utterly indoctrinated by their alien masters. While pitifully weak individually (if you can even call them that anymore), their main strength lies in their sheer endless number. If their presence is not managed or communicated, Helldivers will quickly find themselves overwhelmed and backed into a corner with no way out.
 
 ## Weaknesses:
 
