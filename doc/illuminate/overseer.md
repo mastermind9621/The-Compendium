@@ -8,7 +8,7 @@
 
 ## Strengths: 
 
-Overseers are the bipedal foot soldiers of the Illuminate collective that watch over and direct the mind-controlled masses of the Voteless. Their vile alien forms are fully-encased in a sturdy but flexible segmented armour, composed of unknown materials likely only found in their own system. They also have some degree of martial prowess, as they swing their staves with power and speed, knocking you over should you be unable to avoid. They are equipped with reinforced staves that also double as a ranged weapon, able to fire balls of plasma at any soldier of liberty from great distance.
+Overseers are the bipedal foot soldiers of the Illuminate collective that watch over and direct the mind-controlled masses of the Voteless. Their vile alien forms are fully-encased in a sturdy but flexible segmented armour, composed of unknown materials likely only found in their own system. As their armour is formed of multiple individual pieces, this renders them more protected than you might think, as if one piece breaks, they still have many others. They also have some degree of martial prowess, as they swing their plasma staves with power and speed, knocking you over should you be unable to avoid. Their weapon of choice also has a ranged functionality, able to fire powerful plasma shots from a distance.
 
 ## Weaknesses:
 
