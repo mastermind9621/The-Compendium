@@ -1,6 +1,6 @@
 # Harvester
-## Classification: Heavy
-## Threat level: Medium
+**Classification:** Heavy
+**Threat level:** Medium
 
 ---
 
