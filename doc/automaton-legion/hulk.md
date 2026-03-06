@@ -6,7 +6,7 @@
 ---
 
 ## Specifications:
-Hulks are modular war bots that make up the bulk of deployed automaton squads, there's usually at least one of these in most contacted patrols in the field. Hulks are covered with heavy armour plating and their design allows for a multitude of powerful weaponry to be installed, the variants this unit can come in are as follows:
+Hulks are modular war bots that make provide heavy firepower support to deployed automaton squads, there's usually at least one of these in most contacted patrols in the field. Hulks are covered with heavy armour plating and their design allows for a multitude of powerful weaponry to be installed, the variants this unit can come in are as follows:
 
 * **Bruiser Hulk:** Equipped to its left arm is a rocket launcher that fires in seven shot salvos, while its right arm is mounted with an autocannon that fires 20 shots with each burst.
 * **Scorcher Hulk:** Its right arm is equipped with a heavy flamethrower that it swings from side to side when in use, and its left arm carries a huge circular saw blade that it can and will use to slice any SEAF unit that gets close to ribbons.
