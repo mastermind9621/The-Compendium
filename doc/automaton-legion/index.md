@@ -6,6 +6,7 @@ Barbaric, cold, calculating, heartless. The Automaton Legion marches ceaselessly
 :caption: Automaton Units
 
 devastator
+berserker
 factory-strider
 vox-engine
 hulk
