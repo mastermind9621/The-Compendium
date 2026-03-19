@@ -5,7 +5,7 @@
 ---
 
 ## Strengths
-Formed from multiple Voteless, these mindless abominations rush down any nearby beacon of liberty, arms flailing and their many voteless heads wailing. They may have no armour protecting them, natural or otherwise, but their blob-like shape allow them to suffer a great deal of just punishment as they mindlessly flail toward you, uncaring of any damage they take. Their durability combined with their lack of self-preservation and charging make them formidable opponents, and should be dealt with carefully.
+Formed from multiple Voteless, these mindless abominations rush down any nearby beacon of liberty, arms flailing and their many voteless heads wailing. They may have no armour protecting them, natural or otherwise, but their blob-like shape allows them to suffer a great deal of just punishment as they mindlessly flail toward you, uncaring of any damage they take. Their durability combined with their lack of self-preservation and charging make them formidable opponents, and should be dealt with carefully.
 
 ## Weaknesses:
 The only perceivable weakness are the many glowing voteless heads on the surface of their malformed forms. Their destruction will gradually weaken the beast enough to finally end its miserable unlife.
