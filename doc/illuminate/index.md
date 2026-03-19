@@ -6,6 +6,7 @@ BASIC DESCRIPTION HERE
 :caption: Illuminate Species
 
 voteless
+fleshmob
 harvester
 overseer
 ```
